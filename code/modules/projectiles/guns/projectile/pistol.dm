@@ -23,11 +23,8 @@
 			return
 		else
 			overlays += image(icon, "ammo_ok")
-	
 
 /obj/item/weapon/gun/projectile/pistol/military
-	name = "military pistol"
-	desc = "The Hephaestus Industries P20 - a mass produced kinetic sidearm in widespread service with the SCGDF."
 	name = "USP Match"
 	desc = "USP Match is pre-war pistol modified for CMB needs."
 	magazine_type = /obj/item/ammo_magazine/pistol/double

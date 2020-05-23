@@ -19,11 +19,11 @@
 "as" = (/obj/structure/table/rack,/obj/item/clothing/mask/gas{step_y = 0},/obj/item/clothing/mask/gas{step_y = 0},/obj/item/clothing/mask/gas{step_y = 1},/obj/item/clothing/mask/gas{step_y = 1},/obj/item/weapon/storage/belt/holster/security/tactical{step_y = 0},/obj/item/weapon/storage/belt/holster/security/tactical{step_y = 0},/obj/item/weapon/storage/belt/holster/security/tactical{step_y = 0},/obj/item/weapon/storage/belt/holster/security/tactical{step_y = 0},/obj/item/weapon/storage/backpack/messenger/sec{step_y = 2},/obj/item/weapon/storage/backpack/messenger/sec{step_y = 2},/obj/item/weapon/storage/backpack/messenger/sec{step_y = 2},/obj/item/weapon/storage/backpack/messenger/sec{step_y = 2},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
 "at" = (/turf/space,/area/exoplanet/grass)
 "au" = (/obj/structure/bed/roller,/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
-"av" = (/obj/item/ammo_magazine/pistol/double,/turf/space,/area/exoplanet/grass)
+"av" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/automatic{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/obj/item/weapon/gun/projectile/pistol/military{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
 "aw" = (/obj/structure/hygiene/shower,/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
 "ax" = (/obj/structure/hygiene/toilet,/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
 "ay" = (/obj/machinery/optable,/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
-"az" = (/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/wall/concrete,/area/exoplanet/grass)
+"az" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/automatic/bullpup_rifle{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/obj/item/weapon/gun/projectile/pistol/military{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
 "aA" = (/obj/structure/barricade,/turf/simulated/floor/exoplanet/barren,/area/exoplanet/grass)
 "aB" = (/obj/structure/grille,/turf/simulated/floor/exoplanet/grass,/area/exoplanet/grass)
 "aC" = (/obj/effect/wallframe_spawn/no_grille,/turf/simulated/wall/concrete,/area/exoplanet/grass)
@@ -43,20 +43,14 @@
 "aQ" = (/obj/structure/table/woodentable,/turf/simulated/floor/exoplanet/barren,/area/exoplanet/grass)
 "aR" = (/obj/structure/curtain/open/shower,/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
 "aS" = (/obj/structure/curtain,/turf/simulated/wall/wood,/area/exoplanet/grass)
-"aT" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/pistol/sec/lethal{step_y = 0},/obj/item/weapon/gun/projectile/automatic{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
-"aU" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/pistol/magnum_pistol{step_y = 0},/obj/item/weapon/gun/projectile/automatic{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
+"aT" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/shotgun/pump/combat{step_x = 0; step_y = 0},/obj/item/ammo_magazine/shotholder/shell{step_y = 0},/obj/item/ammo_magazine/shotholder/shell{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 0},/obj/item/weapon/gun/projectile/pistol/military{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 0},/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
 "aV" = (/obj/structure/bed/padded,/obj/item/weapon/bedsheet{step_x = 1},/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
 "aW" = (/turf/simulated/wall,/area/exoplanet/grass)
 "aX" = (/obj/structure/table/rack,/obj/item/ammo_magazine/proto_smg{step_x = 31},/obj/item/weapon/storage/firstaid/adv{step_y = 2},/obj/item/weapon/storage/belt/waistpack/big{step_x = 31; step_y = 1},/obj/item/clothing/accessory/armband/medblue{step_y = 1},/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
 "aY" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/automatic{step_y = 0},/obj/item/ammo_magazine/proto_smg{step_y = 2},/obj/item/weapon/storage/backpack/messenger{step_y = 1},/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
 "aZ" = (/obj/structure/bed/roller,/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
 "ba" = (/obj/structure/bed/chair/wood{step_x = 0},/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
-"bb" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/pistol/sec/lethal{step_y = 0},/obj/item/weapon/gun/projectile/automatic/bullpup_rifle{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
-"bc" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/shotgun/pump/combat{step_x = 0; step_y = 0},/obj/item/weapon/gun/projectile/pistol/sec/lethal{step_y = 0},/obj/item/ammo_magazine/shotholder/shell{step_y = 0},/obj/item/ammo_magazine/shotholder/shell{step_y = 0},/obj/item/ammo_magazine/shotholder/stun{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
 "bd" = (/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
-"be" = (/obj/item/rig_module/vision/medhud,/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
-"bf" = (/obj/item/rig_module/vision/thermal,/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
-"bg" = (/obj/item/rig_module/vision/nvg,/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
 "bh" = (/turf/unsimulated/mineral,/area/space)
 "bi" = (/obj/item/ammo_magazine/box/pistol,/turf/simulated/floor/holofloor/tiled/dark,/area/exoplanet/grass)
 "bj" = (/obj/random/tech_supply,/turf/space,/area/space)
@@ -88,14 +82,11 @@
 "bJ" = (/obj/lighting_plane,/turf/simulated/floor/exoplanet/concrete,/area/exoplanet/grass)
 "bK" = (/obj/lighting_plane,/turf/simulated/floor/exoplanet/grass,/area/exoplanet/grass)
 "bL" = (/obj/lighting_plane,/turf/simulated/floor/exoplanet/desert,/area/exoplanet/grass)
-"bM" = (/obj/item/ammo_magazine/pistol/double{step_y = 1},/obj/item/ammo_magazine/pistol/double{step_y = 1},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/exoplanet/grass,/area/exoplanet/grass)
-"bN" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/pistol/military{step_y = 0},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
-"bO" = (/obj/item/weapon/storage/mre/menu10{step_y = 4},/obj/item/weapon/storage/mre/menu10{step_y = 4},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
+"bM" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/pistol/military{step_y = 0},/obj/item/ammo_magazine/pistol/double{step_x = 0; step_y = 1},/obj/item/ammo_magazine/pistol/double{step_x = 0; step_y = 1},/obj/item/ammo_magazine/pistol/double{step_x = 0; step_y = 1},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
+"bN" = (/obj/item/weapon/storage/mre/menu10{step_y = 4},/obj/item/weapon/storage/mre/menu10{step_y = 4},/obj/structure/table/steel{step_x = 0; step_y = 0},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
+"bO" = (/obj/item/weapon/storage/firstaid/combat{step_x = 0},/obj/item/weapon/storage/firstaid/adv{step_x = 0},/obj/item/weapon/storage/firstaid/adv{step_x = 0},/obj/item/weapon/storage/firstaid/combat{step_x = 0; step_y = 0},/obj/structure/table/steel{step_x = 0},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
 "bP" = (/obj/structure/table/steel{step_x = 0},/obj/item/weapon/storage/mre/menu10{step_y = 4},/obj/item/weapon/storage/mre/menu10{step_y = 4},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
-"bQ" = (/obj/structure/table/steel{step_x = 0},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
-"bR" = (/obj/item/weapon/storage/firstaid/combat{step_x = 0},/obj/item/weapon/storage/firstaid/adv{step_x = 0},/obj/item/weapon/storage/firstaid/adv{step_x = 0},/obj/item/weapon/storage/firstaid/combat{step_x = 0; step_y = 0},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
-"bS" = (/obj/structure/table/steel{step_x = 0},/turf/simulated/wall/titanium,/area/exoplanet/grass)
-"bT" = (/obj/item/bodybag/cryobag{step_x = 0; step_y = 0},/obj/item/weapon/tank/anesthetic{step_x = 3; step_y = 1},/obj/item/weapon/tank/anesthetic{step_x = 3; step_y = 1},/obj/item/clothing/mask/breath/anesthetic{step_x = 0},/obj/item/bodybag/cryobag{step_x = 0},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
+"bQ" = (/obj/item/bodybag/cryobag{step_x = 0; step_y = 0},/obj/item/weapon/tank/anesthetic{step_x = 3; step_y = 1},/obj/item/weapon/tank/anesthetic{step_x = 3; step_y = 1},/obj/item/clothing/mask/breath/anesthetic{step_x = 0},/obj/item/bodybag/cryobag{step_x = 0},/obj/structure/table/steel{step_x = 0},/turf/simulated/floor/tiled/skrell,/area/exoplanet/grass)
 "bU" = (/obj/item/ammo_magazine/pistol/double{step_y = 1},/obj/item/ammo_magazine/pistol/double{step_y = 1},/turf/simulated/floor/exoplanet/barren,/area/exoplanet/grass)
 "bV" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/pistol/military{step_y = 1},/obj/item/weapon/storage/belt/waistpack/big{step_y = 1},/obj/item/weapon/storage/backpack/messenger{step_y = 1},/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
 "bW" = (/obj/structure/table/rack,/obj/item/weapon/gun/projectile/pistol/military{step_y = 0},/obj/item/weapon/storage/belt/waistpack/big{step_y = 1},/obj/item/weapon/storage/backpack/messenger{step_y = 1},/turf/simulated/floor/wood/yew,/area/exoplanet/grass)
@@ -387,10 +378,10 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatatatatatatatatatatatatatatatatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatatatatatatatatatatatatatatatatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatavatavatavatavatavatatatatatatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafafafafafafafafafafafazafatafatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafaTafaTafaUafbbafbbafbcafatafatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafbdafbeafbdafbfafbfafbgafafafatatatatatatatatacacbhapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatatatatatatatatatatatatatatatatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafafafafafafafafafafafafafatafatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafavafavafavafazafazafaTafatafatatatatatatatatatataaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafbdafbdafbdafbdafbdafbdafafafatatatatatatatatacacbhapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafbdbdbdbdbdbdbdbdbdbdbdbdbdafacacacacacacacacacacaaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafbibibibibibdbdbdbdbdbdbdbdafacacacacacacacacacacaaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatafbdbdbdbdbdbdbdafbdbdbdbdbdafafafafafafafafafafafaaapaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -429,14 +420,14 @@ abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamamamamamamam
 abacaeaeaeaeakaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamamamamamamamamaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaebKaeaeaiaiaiaiaiajajajadadadadadadad
 abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamamamamamamamamaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaebKaeaeaiaibLaiaiajajajadadadadadadad
 abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeakaeaeaeaeaeamamamamamamamamamamamamaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaeaiaibLaiaiaiajajajadadadadadadad
-abacaeaeaeaeaeaeaeaeaeaeaeakaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamamamamamamamaeaeaeaebMbMbMbMaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaeaibLbLaiaiaiajajajadadadadadadad
+abacaeaeaeaeaeaeaeaeaeaeaeakaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamamamamamamamaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaeaibLbLaiaiaiajajajadadadadadadad
 abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamamamamalalalalalalalalalalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaebLbLaiaiaiaiajajajadadadadadadad
-abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamalaoaoaoaoalbNbNbNbNalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaebLaiaiaiaiaiajajajadadadadadadad
+abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeamamamamamalaoaoaoaoalbMbMbMbMalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaebLaiaiaiaiaiajajajadadadadadadad
 abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeakaeaeaeaeaeaeaeaeaeaeaeaealaqaqaqaqaqaqaqaqaqaqaqalaeaeaeaeakaeaeaeaeaeaeaeaeaeakaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaebKaiaiaiaiaiaiajajajadadadadadadad
 abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeakaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaealaqaqaqaqaqaqalararararasalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaebKaeaiaiaiaiaiaiajajajadadadadadadad
-abacaeaeaeakaeaeaeaeaeakaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaqaqbObPbPbPbQalalalalalalalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaebKaeaeaiaiaiaiaiaiajajajadadadadadadad
-abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaealalalalalalaqalauaqaqaqbRbSaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaeaiaiaiaiaiaiajajajadadadadadadad
-abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeakaeaeaeaealalawaxalaqaqaqaqayaqbTbSaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahbKaeaeaeaiaiaiaiaiaiajajajadadadadadadad
+abacaeaeaeakaeaeaeaeaeakaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaqaqbNbPbPbPaqalalalalalalalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaebKaeaeaiaiaiaiaiaiajajajadadadadadadad
+abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaealalalalalalaqalauaqaqaqbOalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahaeaeaeaeaiaiaiaiaiaiajajajadadadadadadad
+abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeakaeaeaeaealalawaxalaqaqaqaqayaqbQalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahahbKaeaeaeaiaiaiaiaiaiajajajadadadadadadad
 abacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaealaqaqaqaqalauaqaqaqalaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeahahahahbJaeaeaeaeaeaiaiaiaiaiajajajadadadadadadad
 abacaeaeaeaeagagagagagagagaAaAagagagagagagagagagaeaeaeaeaeaeaeaeaeaeaeaeaeaeagalalalalalalalalalalagagagagagagagagagaeaeaeaeaeaeaeaeaeagagagaeaeaeaeaeaeagagahahbJaeaeaeaeaeaiaiaiaiaiajajajadadadadadadad
 abacagagagagagagagagagagagamamagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagaeaeagagagagagagagaeaeagagagagahahbJaeaeaeaeaeaiaiaiaiaiajajajadadadadadadad
