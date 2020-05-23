@@ -1,6 +1,8 @@
 /obj/item/weapon/gun/projectile/automatic
 	name = "prototype SMG"
 	desc = "A protoype lightweight, fast firing submachine gun."
+	name = "MP7"
+	desc = "CMB manufactured lightweight, fast firing submachine gun."
 	icon = 'icons/obj/guns/prototype_smg.dmi'
 	icon_state = "prototype"
 	item_state = "saber"
@@ -170,6 +172,8 @@
 /obj/item/weapon/gun/projectile/automatic/bullpup_rifle
 	name = "bullpup assault rifle"
 	desc = "The Hephaestus Industries Z8 Bulldog is an older model bullpup carbine. Makes you feel like a space marine when you hold it."
+	name = "OICW"
+	desc = "The Object Individual Combat Weapon, manufactured by CMB, with overbarrel grenade launcher."
 	icon = 'icons/obj/guns/bullpup_rifle.dmi'
 	icon_state = "carbine"
 	item_state = "z8carbine"
